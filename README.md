@@ -9,5 +9,6 @@
 * HTML 5
 * Ambiente de desenvolvimento Visual Studio Code
 <span align="center">
-## <img src="https://user-images.githubusercontent.com/101193102/160513044-1614fecf-ebfa-4a99-8f47-ba6da775870d.png"></img>
+##Tela de inicio do Game
+  <img src="https://user-images.githubusercontent.com/101193102/160513044-1614fecf-ebfa-4a99-8f47-ba6da775870d.png"></img>
 </span>
