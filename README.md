@@ -10,11 +10,11 @@
 * Ambiente de desenvolvimento Visual Studio Code
 <span align="center">
 ##Tela de inicio do Game
-  <img src="https://user-images.githubusercontent.com/101193102/160513044-1614fecf-ebfa-4a99-8f47-ba6da775870d.png"></img>
+  <img src="https://user-images.githubusercontent.com/101193102/160513044-1614fecf-ebfa-4a99-8f47-ba6da775870d.png" width="500px"></img>
 </span>
 
 * Ambiente de desenvolvimento Visual Studio Code
 <span align="center">
 ##Tela de Game Over
-  <img src="https://user-images.githubusercontent.com/101193102/160513677-3352b23b-35a6-425d-b5dd-a06f3ba02f68.png"></img>
+  <img src="https://user-images.githubusercontent.com/101193102/160513677-3352b23b-35a6-425d-b5dd-a06f3ba02f68.png" width="500px"></img>
 </span>
