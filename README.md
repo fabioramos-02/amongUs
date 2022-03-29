@@ -8,6 +8,13 @@
 * Controle de fluxo de tempo para jogos
 * HTML 5
 * Ambiente de desenvolvimento Visual Studio Code
+## Alterações
+
+* Adicionado novo tripulante
+* Tempo de animação
+* Velocidade
+* Mudança de cores
+* Acrescentado a frase "Você é um impostor!"
 
 <span align="center">
   
