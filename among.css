@@ -116,9 +116,9 @@
     left: 39px;
     top: 5px;
     border-radius: 25px;
-    -webkit-transform: rotate(1deg);
-        -ms-transform: rotate(1deg);
-            transform: rotate(1deg);
+    -webkit-transform: rotate(6deg);
+        -ms-transform: rotate(6deg);
+            transform: rotate(6deg);
 }
 
 @keyframes move {
@@ -166,15 +166,15 @@
 .size2 {
     width: fit-content;
     height: fit-content;
-    animation: move 10s infinite;
+    animation: mover 22s infinite;
     position: absolute;
-    top: 400%;
+    top: 500px;
     z-index: 1;
-    transform: scale(1.4);
-    opacity: .6;
+    transform: scale(1.1);
+    opacity: .5;
 }
 .player2{
-    background-color: #c71414;
+    background-color: #ff0000;
     border: 10px solid #000000;
     border-bottom: none;
     border-radius: 60px 80px 0 0;
@@ -184,23 +184,23 @@
     top: 50px;
     left: -15%;
     z-index: 1;
-    animation: rotacao 15s infinite;
+    animation: rodar 10s infinite;
 }
 .player2:after{
     content: "";
     position: absolute;
     width: 92%;
     height: 85%;
-    background-color: #c71414;
+    background-color: #ff0000;
     border-radius:58% 70% 28% 42% / 28% 56% 88% 89%;
  
-    top: 2.5px;
-    left: 6px;
+    top: 3.5px;
+    left: 4px;
 }
 .legs2{
     height: 50px;
     width: 60px;
-    background-color: #c71414;
+    background-color: #ff0000;
     position: absolute;
     left: -10px;
     bottom: -50px;
@@ -213,7 +213,7 @@
     content: "";
     height: 37px;
     width: 40px;
-    background-color: #c71414;
+    background-color: #ff0000;
     position: absolute;
     right: -90px;
     border: 10px solid black;
@@ -233,7 +233,7 @@
 .back2{
     height: 120px;
     width: 35px;
-    background-color: #c71414;
+    background-color: #ff0000;
     border: 10px solid black;
     border-right: none;
     position: absolute;
@@ -246,7 +246,7 @@
     position: absolute;
     height: 78px;
     width: 26px;
-    background-color: #c71414;
+    background-color: #ff0000;
     bottom: -0.5px;
     left: -1px;
     border-radius: 12px 0 0 8px;
@@ -281,32 +281,47 @@
     left: 39px;
     top: 5px;
     border-radius: 25px;
-    -webkit-transform: rotate(3deg);
-        -ms-transform: rotate(5deg);
-            transform: rotate(1deg);
+    -webkit-transform: rotate(4deg);
+        -ms-transform: rotate(4deg);
+            transform: rotate(4deg);
 }
 
-@keyframes rotacao{
+@keyframes mover {
     0% {
-        transform: rotate(10deg);
+        right: 100%;
+    }
+    50% {
+        right: -1%;
+    }
+    51% {
+        right: -0%;
+    }
+    100% {
+        right: 100%;
+    }
+}
+
+@keyframes rodar {
+    0% {
+        transform: rotate(0deg);
     }
     15% {
-        transform: rotate(300deg);
+        transform: rotate(40deg);
     }
     30% {
-        transform: rotate(215deg);
+        transform: rotate(115deg);
     }
     45% {
-        transform: rotate(695deg);
+        transform: rotate(195deg);
     }
     60% {
-        transform: rotate(325deg);
+        transform: rotate(225deg);
     }
     75% {
-        transform: rotate(-400deg);
+        transform: rotate(-320deg);
     }
     90% {
-        transform: rotate(-435deg);
+        transform: rotate(-385deg);
     }
     100% {
         transform: rotate(0deg);
