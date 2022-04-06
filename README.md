@@ -1,29 +1,23 @@
 # Mini-Game  Among Us
 * https://www.youtube.com/watch?v=C3WZrP0zlUk
-## Conhecimentos
 
-* Estrutura de Dados e Controle de Estados com JavaScript
-* Animações utilizando CSS 3
-* Manipulação de áudio
-* Controle de fluxo de tempo para jogos
-* HTML 5
-* Ambiente de desenvolvimento Visual Studio Code
+## Tecnologia utilizadas
+- **HTML**: Estrutura do site
+- __CSS__: Estilização do site
+- *_JS_*: Funções o site
+
 ## Alterações
 
-* Adicionado novo tripulante
-* Tempo de animação
-* Velocidade
-* Mudança de cores
 * Acrescentado a frase "Você é um impostor!"
+* Velocidade
+* Adicionado novos tripulantes de animação
+* Tempo de animação
+* Mudança de cores
 
-<span align="center">
-  
-## Tela de inicio do Game
-  
-  <img src="https://user-images.githubusercontent.com/101193102/160513044-1614fecf-ebfa-4a99-8f47-ba6da775870d.png"></img>
+### Disponibilizado em
+[GitHubPages](https://marisol125087.github.io/jogo/)
 
-
-## Tela de Game Over
-
- <img src="https://user-images.githubusercontent.com/101193102/160513677-3352b23b-35a6-425d-b5dd-a06f3ba02f68.png"></img>
-</span>
+| ID | Primeira tela | Segunda Tela |
+|----|---------------|--------------|
+| 1 | Inicio   | Game Over |
+| 2 | ![tela de Inicio](https://user-images.githubusercontent.com/100214492/161658911-2ee0a3b1-152f-455c-8379-dbf8d23965c9.png) | ![Tela de Game Over](https://user-images.githubusercontent.com/100214492/161658950-f042fcb4-2ed1-4d26-bf70-2657678ec4a8.png) |
