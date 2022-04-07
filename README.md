@@ -10,9 +10,9 @@
 
 * Acrescentado a frase "Você é um impostor!"
 * Velocidade
+* Mudança de cores
 * Adicionado novos tripulantes de animação
 * Tempo de animação
-* Mudança de cores
 
 ### Disponibilizado em
 [GitHubPages](https://marisol125087.github.io/jogo/)
