@@ -15,7 +15,7 @@
 * Tempo de animação
 
 ### Disponibilizado em
-[GitHubPages](https://marisol125087.github.io/jogo/)
+[GitHubPages](https://fabioramos-02.github.io/amongUs/)
 
 | ID | Primeira tela | Segunda Tela |
 |----|---------------|--------------|
