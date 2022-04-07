@@ -20,4 +20,4 @@
 | ID | Primeira tela | Segunda Tela |
 |----|---------------|--------------|
 | 1 | Inicio   | Game Over |
-| 2 | ![tela de Inicio](https://user-images.githubusercontent.com/100214492/161658911-2ee0a3b1-152f-455c-8379-dbf8d23965c9.png) | ![Tela de Game Over](https://user-images.githubusercontent.com/100214492/161658950-f042fcb4-2ed1-4d26-bf70-2657678ec4a8.png) |
+| 2 | ![tela de Inicio](https://user-images.githubusercontent.com/101193102/162177347-2551d166-5360-4b4e-b278-ebd010490046.png) | ![Tela de Game Over](https://user-images.githubusercontent.com/101193102/162177463-886d696d-9322-4f8a-9088-3b85855aebc1.png) |
